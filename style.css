@@ -1,0 +1,15 @@
+#a1 {
+    text-align: center;
+}
+@media screen and (max-width:750px){
+    .card {
+        width: 50%;
+        max-width: 100%;
+        margin: auto auto 15px;
+    }
+}
+@media screen and (max-width:480px){
+    .card {
+        width: 95%;
+    }
+}
